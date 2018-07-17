@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">HW02</string>
+    <string name="textViewTaskTitle">Task Title</string>
+    <string name="textViewTaskDate">Task Date</string>
+    <string name="textViewTaskTime">Task Time</string>
+    <string name="textViewTaskPriority">Task Priority</string>
+    <string name="textViewTaskLabel">Task</string>
+    <string name="textViewOfLabel">of</string>
+    <string name="title_editText">title</string>
+    <string name="date_editText">Date</string>
+    <string name="time_editText">Time</string>
+    <string name="high_radioButton">High</string>
+    <string name="medium_radioButton">Medium</string>
+    <string name="low_radioButton">Low</string>
+    <string name="priority_textView">Priority</string>
+    <string name="save_button">Save</string>
+    <string name="add_activity_button">Add</string>
+    <string name="next_button">Next</string>
+    <string name="previous_button">Previous</string>
+    <string name="last_button">Last</string>
+    <string name="first_button">First</string>
+    <string name="error_text">Pick a Priority</string>
+    <string name="editTextTitle">Title</string>
+    <string name="editTextDate">Date</string>
+    <string name="editTextTime">Time</string>
+    <string name="textViewPriorityLabel">Priority</string>
+    <string name="radioButtonHigh">High</string>
+    <string name="radioButtonMed">Medium</string>
+    <string name="radioButtonLow">Low</string>
+    <string name="buttonSave">Save</string>
+</resources>
